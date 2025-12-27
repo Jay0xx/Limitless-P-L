@@ -1,0 +1,7 @@
+{
+  "name": "Limitless P&L Insights Dashboard",
+  "description": "A sophisticated analytics platform for Limitless prediction market participants, featuring real-time performance tracking, AI-powered risk assessment, and detailed portfolio visualization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
